@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 
 bash
 
-git clone https://github.com/your-username/api-chaining-dashboard.git
+git clone https://github.com/vidhyasagar70/api-chaining-dashboard.git
 cd api-chaining-dashboard
 
 2. Install Dependencies
